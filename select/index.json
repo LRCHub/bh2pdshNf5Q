@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ロマンス",
+  "base_artist": "PLUE",
+  "createdAt": "2025-12-28T09:58:38.093596Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "PENICILLIN",
+      "has_synced": false,
+      "path": "select/01_ロマンス_PENICILLIN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Answer Waltz Romance [アンサー・ワルツ・ロマンス]",
+      "artist": "Haru Nemuri",
+      "has_synced": false,
+      "path": "select/02_Answer_Waltz_Romance_[アンサー・ワルツ・ロマンス]_Haru_Nemuri.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "Hitsujibungaku",
+      "has_synced": false,
+      "path": "select/03_ロマンス_Hitsujibungaku.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "岩崎 宏美",
+      "has_synced": false,
+      "path": "select/04_ロマンス_岩崎_宏美.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "岩崎宏美",
+      "has_synced": false,
+      "path": "select/05_ロマンス_岩崎宏美.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シルエット・ロマンス",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/06_シルエット・ロマンス_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロマンス、イラネ",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/07_ロマンス、イラネ_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シルエット・ロマンス",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/08_シルエット・ロマンス_大橋純子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "岩崎宏美",
+      "has_synced": true,
+      "path": "select/09_ロマンス_岩崎宏美.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "Tomoyo Harada",
+      "has_synced": false,
+      "path": "select/10_ロマンス_Tomoyo_Harada.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "原田知世",
+      "has_synced": false,
+      "path": "select/11_ロマンス_原田知世.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Silhouette romance (シルエット・ロマンス)",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/12_Silhouette_romance_(シルエット・ロマンス)_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Silhouette romance (karaoke) シルエット・ロマンス(オリジナル・カラオケ)",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/13_Silhouette_romance_(karaoke)_シルエット・ロマンス(オリジナル・カラオケ)_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "PRINCESS PRINCESS",
+      "has_synced": true,
+      "path": "select/14_ロマンス_PRINCESS_PRINCESS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "Sayonara Ponytail",
+      "has_synced": true,
+      "path": "select/15_ロマンス_Sayonara_Ponytail.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ロマンス",
+      "artist": "Hiromi Iwasaki",
+      "has_synced": true,
+      "path": "select/16_ロマンス_Hiromi_Iwasaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロマンス",
+      "artist": "PLUE",
+      "has_synced": false,
+      "path": "select/pl_01_ロマンス_PLUE.txt"
+    }
+  ]
+}
